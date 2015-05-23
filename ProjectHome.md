@@ -1,0 +1,1 @@
+Spartacus é um sistema aonde as farmácias se conectam para realizar pedidos de produtos (medicamentos) e os fornecedores (laboratórios) tem uma ferramenta de gerenciamento do processo.
